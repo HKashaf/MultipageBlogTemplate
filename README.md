@@ -45,6 +45,6 @@ If you have any questions, suggestions, or feedback, contact me at kashafhaneen1
 
 ---
 
-* Click on the link to view the project:- (https:///HKashaf.github.io/MultipageBlogTemplate)
+* Click on the link to view the project:- https://HKashaf.github.io/MultipageBlogTemplate/
 
   
