@@ -29,7 +29,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 
 ## Demo
 
-You can see a live demo of the website [here](https://github.com/HKashaf/MultipageBlogTemplate).
+You can see a live demo of the website [here](https:///HKashaf.github.io/MultipageBlogTemplate).
 
 ## Installation
 
@@ -45,6 +45,6 @@ If you have any questions, suggestions, or feedback, contact me at kashafhaneen1
 
 ---
 
-* Click on the link to view the project:- (https://github.com/HKashaf/MultipageBlogTemplate)
+* Click on the link to view the project:- (https:///HKashaf.github.io/MultipageBlogTemplate)
 
   
